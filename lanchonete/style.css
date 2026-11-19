@@ -1,0 +1,32 @@
+
+body{
+        width: 560px;
+        margin: 0 auto;
+        padding: 0px 20px 20px 20px;
+        border: 5px solid #b20a0a;
+        border-radius: 4px;
+    }
+    
+    
+    h1 {
+        text-align: center;
+        color: red;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-shadow: 1px 1px 1px yellow;
+    }
+    
+    h3{
+        color: red;
+        border-bottom: #b01919;
+    }
+    
+    img{
+        width: 190px;
+        border-radius: 8px;
+    }
+    
+    button{
+        text-align: center;
+        background-color: #c4ac37;
+    }
+    
